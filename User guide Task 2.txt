@@ -1,0 +1,10 @@
+User guide
+Please run the file to test the program.
+Cocktail Sort
+1.Please enter the numbers that you want to sort to the input terminal. The inputted numbers can be both integer or floating numbers, and remember to separate input values with space to indicate where to split the numbers. 
+2.Press enter after finishing input. The system will return the sorted list
+MinHeap
+1.Please enter the numbers that you want to heap to the input terminal. The inputted numbers should be integer, and remember to separate input values with space to indicate where to split the numbers.
+2.The system will then return the heap array. You will be asked if you want to remove the smallest element from the array. Enter the number of elements that you want to remove. If not, enter 0.
+3.Then you will be asked to push in numbers that you want to insert to the array. The inputted numbers should be integer, and remember to separate input values with space to indicate where to split the numbers.
+4.The system will return the newest heap array, the smallest number in the array, the length of the array, and whether the array is empty.
